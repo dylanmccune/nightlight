@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/logo_light.svg">
-  <img alt="logo" src="./logo.svg" width="200">
+  <img alt="logo" src="./assets/logo.svg" width="200">
 </picture>
 
 # Night light
