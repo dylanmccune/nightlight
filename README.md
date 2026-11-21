@@ -6,7 +6,10 @@
 
 # Night light
 A little light that turns on when it gets dark so the monsters under the bed can't hurt you
+
 Just an LED with a photoresistor that turns on when it gets dark (plus some other parts).
+
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/dylanmccune/nightlight/tree/main/design)
 
 ![Schematic](https://cdn.hackclub.com/01a1fbd9-17c6-7c3a-9a60-fae6e7f90d5a/paste-1795226670551.png)
 ![PCB Layout](https://cdn.hackclub.com/01a1fbd9-3f0c-76e8-a97f-9abad6aafe72/paste-1795226680590.png)
