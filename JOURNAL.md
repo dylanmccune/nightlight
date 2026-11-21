@@ -19,4 +19,11 @@ Anyway now I have PCB footprints for all of the components, some built in to KiC
 
 # November 20th: More PCB
 After getting all of the footprints found and assigned, I clicked the add parts to PCB button and was met with a mess of scattered parts and connections between them. Making the actual traces was super quick once I had everything arranged, but the arranging took *soooo* long. I probably went through three or four different layouts before I settled on one I liked. It's nice and compact and is layed out in a way that I think is logical. 
+![PCB Screenshot](https://cdn.hackclub.com/01a1fbae-d793-7a16-8934-d4ce1a93a2e0/2026-11-20_17-07-19.png)
 **Time spent: 1.5h**
+
+# November 20th again: Silkscreen:
+I wanted a cute little silkscreen of a monster to go on the back, and I made... something.
+I think it's beautiful, I hope you do to.
+![Silkscreen artwork](https://cdn.hackclub.com/01a1fbae-49fa-7e45-8a44-ebc88c922c09/silkscreen.svg)
+**Time spent: 0.5h**
